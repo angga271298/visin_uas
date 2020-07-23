@@ -1,0 +1,33 @@
+[
+    {"type":"header","version":"4.9.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+    {"type":"database","name":"visin_survey"},
+    {"type":"table","name":"sales","database":"visin_survey","data":
+    [
+    {"OrderDate":"1\/23\/19","Agen":"Kemal","Mobil":"Sigra","Units":"8031","UnitCost":" 119.5 ","Total":"959704.5 "},
+    {"OrderDate":"2\/26\/19","Agen":"Gill","Mobil":"Gran Max","Units":"7123","UnitCost":" 171.9 ","Total":" 1224443.7 "},
+    {"OrderDate":"1\/15\/20","Agen":"Aska","Mobil":"Xenia","Units":"8043","UnitCost":" 184.9 ","Total":" 1487150.7 "},
+    {"OrderDate":"2\/1\/20","Agen":"Smith","Mobil":"Ayla","Units":"8337","UnitCost":" 102.00 ","Total":" 850374"},
+    {"OrderDate":"3\/24\/20","Agen":"Jardine","Mobil":"Terios","Units":"5045","UnitCost":" 214.99 ","Total":" 1084624.55"},
+    {"OrderDate":"4\/10\/20","Agen":"Rino","Mobil":"Gran Max","Units":"6436","UnitCost":" 161.9 ","Total":" 1041988.4"},
+    {"OrderDate":"5\/14\/20","Agen":"Gill","Mobil":"Sigra","Units":"7020","UnitCost":" 115.5 ","Total":" 810810"},
+    {"OrderDate":"6\/17\/20","Agen":"Yaya","Mobil":"Xenia","Units":"3425","UnitCost":" 195.9 ","Total":" 670957.5"},
+    {"OrderDate":"7\/21\/20","Agen":"Morgan","Mobil":"Terios","Units":"5563","UnitCost":" 212.49 ","Total":"1182081.87"},
+    {"OrderDate":"8\/7\/20","Agen":"Yaya","Mobil":"Ayla","Units":"4266","UnitCost":" 113.95 ","Total":" 486110.7"},
+    {"OrderDate":"9\/10\/20","Agen":"Gill","Mobil":"Sigra","Units":"8020","UnitCost":" 117.5 ","Total":" 742350"},
+    {"OrderDate":"10\/31\/20","Agen":"Rino","Mobil":"Xenia","Units":"1741","UnitCost":" 193.9 ","Total":" 337579.9"},
+    {"OrderDate":"11\/17\/20","Agen":"Jardine","Mobil":"Sigra","Units":"6201","UnitCost":" 114.25 ","Total":" 708464.25"},
+    {"OrderDate":"12\/21\/20","Agen":"Rino","Mobil":"Gran Max","Units":"2646","UnitCost":" 154.5 ","Total":" 408807"},
+    {"OrderDate":"4\/1\/19","Agen":"Lisa","Mobil":"Ayla","Units":"6066","UnitCost":" 101.99 ","Total":" 618671.34"},
+    {"OrderDate":"6\/8\/19","Agen":"Lisa","Mobil":"Terios","Units":"8660","UnitCost":" 218.99 ","Total":" 1896453.4"},
+    {"OrderDate":"7\/12\/19","Agen":"Howard","Mobil":"Xenia","Units":"2954","UnitCost":" 191.99 ","Total":" 566872.6"},
+    {"OrderDate":"8\/15\/19","Agen":"Lisa","Mobil":"Xenia","Units":"3564","UnitCost":" 184.99 ","Total":" 659304.36"},
+    {"OrderDate":"9\/18\/19","Agen":"Lisa","Mobil":"Ayla","Units":"1645","UnitCost":" 102.4 ","Total":" 168448"},
+    {"OrderDate":"10\/22\/19","Agen":"Lisa","Mobil":"Sigra","Units":"1250","UnitCost":" 118.9 ","Total":" 148625"},
+    {"OrderDate":"11\/8\/19","Agen":"Herman","Mobil":"Gran Max","Units":"6615","UnitCost":" 180.9 ","Total":" 1196653.5"},
+    {"OrderDate":"12\/29\/19","Agen":"Herman","Mobil":"Ayla","Units":"7564","UnitCost":" 105.15 ","Total":" 795354.6"},
+    {"OrderDate":"3\/15\/19","Agen":"Beben","Mobil":"Terios","Units":"5664","UnitCost":" 222.99 ","Total":"1263015.36"},
+    {"OrderDate":"5\/22\/19","Agen":"Ronal","Mobil":"Xenia","Units":"3244","UnitCost":" 190.99 ","Total":" 619571.56"}
+    ]
+    }
+]
+    
